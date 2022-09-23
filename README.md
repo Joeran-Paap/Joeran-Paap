@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joeran-Paap [he/him/his]
 - Currently a M.Sc. Biological Oceanography student at  GEOMAR Helmholtz Centre for ocean Research Kiel /CAU Kiel
 
-- Did my Bachelor thesis in ecosystem modeling - now writing simple code for fun
 
 
 
