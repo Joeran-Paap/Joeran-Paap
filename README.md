@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joeran-Paap [he/him/his]
+- 👋 Hi, I’m @Joeran-Paap [no pronouns]
 
 
 
